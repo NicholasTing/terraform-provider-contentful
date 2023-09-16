@@ -1,10 +1,10 @@
-module github.com/labd/terraform-provider-contentful
+module github.com/nicholasting/terraform-provider-contentful
 
 go 1.21
 
 require (
 	github.com/hashicorp/terraform-plugin-docs v0.16.0
-	github.com/labd/contentful-go v0.5.3
+	github.com/nicholasting/contentful-go v0.1.0
 )
 
 require (

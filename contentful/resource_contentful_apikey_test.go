@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/acctest"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
-	contentful "github.com/labd/contentful-go"
+	contentful "github.com/nicholasting/contentful-go"
 )
 
 func TestAccContentfulAPIKey_Basic(t *testing.T) {
