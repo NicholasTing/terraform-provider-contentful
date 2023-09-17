@@ -1,4 +1,4 @@
-module github.com/nicholasting/terraform-provider-contentful
+module github.com/nicholasting/terraform-provider-contentful-alpha
 
 go 1.21
 
