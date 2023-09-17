@@ -1,4 +1,4 @@
-project_name: terraform-provider-contentful
+project_name: terraform-provider-contentful-alpha
 
 builds:
   - env:
